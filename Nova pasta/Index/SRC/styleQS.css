@@ -1,0 +1,54 @@
+.imagem-fixa{
+    object-fit: cover;
+    object-position: 0 35%;
+    height: 250px;
+}
+
+.margem{
+    margin-left: 125px;
+    font-size: large;
+}
+
+.imagem-legume{
+    margin-left: 60px;
+    height: 275px;
+}
+
+.alinhar{
+    display: flex;
+    align-items:center;
+}
+
+.fonte-titulo
+{
+        font-family: "Pacifico", cursive;  
+}
+
+.cor-especial
+{
+    color:skyblue;
+}
+
+.letra-pequena
+{
+    font-size: 25px;
+}
+
+.imagem-funcionarios
+{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura
+{
+    max-width: 25rem
+}
+
+.afastamento
+{
+margin-left: 125px;
+margin-right: 125px;
+}
+  
+
